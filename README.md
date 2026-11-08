@@ -1,7 +1,7 @@
 # Master Thesis – SIC Gate-Drive Optimization
 
 <div align="center">
-  <img src="project-banner.png" width="100%">
+  <img src="Project_Setup.png" width="100%">
 </div>
 
 <p align="center">
