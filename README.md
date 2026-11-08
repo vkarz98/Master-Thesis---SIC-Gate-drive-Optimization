@@ -1,4 +1,4 @@
-# Master Thesis – SIC Gate-Drive Optimization
+# Designed PCB with experimental setup
 
 <div align="center">
   <img src="Project_Setup.jpg" width="100%">
